@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../xampp/htdocs/meusite.com.br"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lima html"
+	}
+}
